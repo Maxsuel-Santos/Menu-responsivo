@@ -67,7 +67,7 @@ main {
         position: absolute;
         top: 8vh;
         right: 0;
-        width: 50vw; /* Você pode por 100vw para o menu ocupar toda a tela. Pode usar o "vw" ou o "vh" */
+        width: 85vw; /* Você pode por 100vw para o menu ocupar toda a tela. Pode usar o "vw" ou o "vh" */
         height: 92vh;
         background-color: #23232e;
         flex-direction: column;
