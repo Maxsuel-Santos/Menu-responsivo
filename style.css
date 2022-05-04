@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+	overflow: hidden;
 }
 
 a {
@@ -62,7 +63,6 @@ main {
 @media only screen and (max-width: 999px) {
     body {
         overflow-x: hidden; /* Se algo transborda da linha X - horizontal - é oculto pelo body com essa propriedade. o mesmo vale para o overflow-y na vertical*/
-        overflow-y: hidden;
     }
 
     .nav-list {
